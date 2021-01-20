@@ -1,0 +1,5 @@
+location,min_salary,max_salary,company
+Noida,10,20,tcs
+Bangalore,15,30,Wipro
+Bangalore,,30,Wipro
+Bangalore,20,,Wipro
